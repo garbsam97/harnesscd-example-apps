@@ -11,6 +11,6 @@
     "serverless-finch": "^2.3.2"
   },
   "devDependencies": {
-    "@serverless/enterprise-plugin": "latest"
+    "@serverless/enterprise-plugin": "3.3.0"
   }
 }
